@@ -31,11 +31,11 @@ This application is a group project for [GA Tech's Coding Boot Camp](https://cod
 1. Users can find out what amount of exercise will help them reach their weight goal the fastest based on calorie input 
 + User can login to their account (optional Facebook, Google Plus, or Twitter login)
 + Input fields for new users
-  -Current weight
-  -Current height
-  -Age
-  -Body Frame
-  -Desired weight to lose
+  + Current weight
+  + Current height
+  + Age
+  + Body Frame
+  + Desired weight to lose
 + Submit Button
 + Animation for processing post submission
 + Page choice to track progress
