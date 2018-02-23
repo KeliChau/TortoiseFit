@@ -37,11 +37,11 @@ This application was a group project for [GA Tech's Coding Program](https://codi
 1. Users can find out what amount of exercise will help them reach their weight goal the fastest based on calorie input 
 + User can login to their account (optional Facebook, Google Plus, or Twitter login)
 + Input fields for new users
-  -Current weight
-  -Current height
-  -Age
-  -Body Frame
-  -Desired weight to lose
+  + Current weight
+  + Current height
+  + Age
+  + Body Frame
+  + Desired weight to lose
 + Submit Button
 + Animation for processing post submission
 + Page choice to track progress
@@ -87,6 +87,7 @@ This application was a group project for [GA Tech's Coding Program](https://codi
 + Google Fonts
 + Google Analytics
 
+<<<<<<< HEAD
 ## License
 ### MIT License
 
@@ -111,3 +112,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ### [:top:](#TortoiseFit)
+=======
+## Future Plans
++ Add account settings
++ Enable email or username login options
++ Incorporate nearest gyms
++ Incorporate nearby fitness instructors
++ Incorporate nearby fitness events (I.E. marathons)
++ Link all pages
++ Expandable FAQ page 
+>>>>>>> 878d8d3121fa3410824df538e8647934e65fa514
