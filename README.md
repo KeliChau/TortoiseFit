@@ -1,22 +1,28 @@
 # TortoiseFit
 
+## Table of Contents
++ [Overview](#overview)  
++ [Visuals](#visuals)
++ [Assignment](#assignment)
++ [Future Development](#future-development)
++ [Contributing](#contributing)
++ [Acknowledgments](#acknowledgments)
++ [License](#license)
+
 ## Overview
+TortoiseFit is a mobile-friendly fitness web application for people who are beginning their fitness journey. Users can create a profile to keep track of their weight and exercises. 
 
-### Project Ideas
-TortoiseFit Health Application
-+ Users can input their current weight and based on user's weight, an exercise plan will be provided
-+ An estimated timeline will be given to user of how much weight will be lost based on calorie inputs
-+ YouTube API to show users related demo videos
-+ Users are able to access to their individual database (Facebook, Twitter, Google Plus login options)
+## Visuals
+![Alt Text](assets/visuals/TortoiseFit.gif)
 
-#### Teams
-+ **Backend**: [Corey Sullivan](https://www.github.com/co-su) and [Scott Hunter](https://www.github.com/scotthhunter)
-+ **Frontend**: [Brian Peace](https://www.github.com/bpeace71) and [Keli Chau](https://www.github.com/kelichau)
+## Assignment
+This application was a group project for [GA Tech's Coding Program](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort. 
 
-#### Assignment
-This application is a group project for [GA Tech's Coding Boot Camp](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort. Collaborators include: [Brian Peace](https://www.github.com/bpeace71), [Corey Sullivan](https://www.github.com/co-su), [Scott Hunter](https://www.github.com/scotthhunter), and [Keli Chau](https://www.github.com/kelichau).
+### Collaborators
++ **Back End**: [Corey Sullivan](https://www.github.com/co-su) and [Scott Hunter](https://www.github.com/scotthhunter)
++ **Front End**: [Brian Peace](https://www.github.com/bpeace71) and [Keli Chau](https://www.github.com/kelichau)
 
-##### Requirements
+### Requirements
 + Node.js
 + Express.js
 + MySQL Database with Sequelize ORM
@@ -27,7 +33,7 @@ This application is a group project for [GA Tech's Coding Boot Camp](https://cod
 + Folder structure that meets MVC Paradigm
 + Good quality coding standards
 
-##### User Story
+### User Story
 1. Users can find out what amount of exercise will help them reach their weight goal the fastest based on calorie input 
 + User can login to their account (optional Facebook, Google Plus, or Twitter login)
 + Input fields for new users
@@ -51,7 +57,21 @@ This application is a group project for [GA Tech's Coding Boot Camp](https://cod
 6. User can clear previous individual weight 
 7. User can compare their goal weight and current weight at the top of the app
 
-### Visuals
+## Future Development
++ Add account settings
++ Enable email or username login options
++ Incorporate nearest gyms
++ Incorporate nearby fitness instructors
++ Incorporate nearby fitness events (I.E. marathons)
++ Link all pages
++ Expandable FAQ page 
+
+## Contributing
+1. Fork this repository
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
 
 ## Acknowledgments
 + Node
@@ -67,11 +87,27 @@ This application is a group project for [GA Tech's Coding Boot Camp](https://cod
 + Google Fonts
 + Google Analytics
 
-## Future Plans
-+ Add account settings
-+ Enable email or username login options
-+ Incorporate nearest gyms
-+ Incorporate nearby fitness instructors
-+ Incorporate nearby fitness events (I.E. marathons)
-+ Link all pages
-+ Expandable FAQ page 
+## License
+### MIT License
+
+#### Copyright (c) 2018 TortoiseFit
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### [:top:](#TortoiseFit)
